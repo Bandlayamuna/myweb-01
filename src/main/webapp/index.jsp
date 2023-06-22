@@ -3,7 +3,7 @@
 <head>
   <title>History and Origin of the Yamuna River</title>
 </head>
-<body style="background-color: yellow;">
+<body style="background-color: orange;">
   <div style="padding: 20px;">
     <h1 style="color: green; text-align: center;">History and Origin of the Yamuna River</h1>
     <p style="color: green;">
