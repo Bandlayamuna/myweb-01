@@ -4,27 +4,23 @@
   <title>Yamuna</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f2f2f2;
+      background-color: lemonchiffon;
     }
     
-    h1 {
-      color: #333;
-      text-align: center;
-    }
-    
-    p {
-      color: #666;
-      line-height: 1.5;
+    .content {
+      color: green;
     }
   </style>
 </head>
 <body>
-  <h1>Yamuna</h1>
-  <p>
-    The Yamuna is a sacred river in Hinduism and one of the major rivers of the Indian subcontinent. It is the longest tributary of the Ganges and flows through several states of northern India. The river holds immense religious significance and is considered to be the daughter of the sun god, Surya, and the sister of the god of death, Yama.
-  </p>
+  <div class="content">
+    <h1>Welcome to the Yamuna River</h1>
+    <p>
+      The Yamuna is a sacred river in northern India. It is a major tributary of the Ganges and is considered one of the holiest rivers in Hinduism. The river originates from the Yamunotri Glacier in the Himalayas and flows through several states before merging with the Ganges in Allahabad.
+    </p>
+    <p>
+      The Yamuna is known for its religious significance and is associated with various myths and legends. It is a popular destination for pilgrims who come to take a dip in its holy waters. However, the river faces significant pollution challenges due to urbanization and industrialization along its banks.
+    </p>
+  </div>
 </body>
 </html>
